@@ -4,25 +4,24 @@ body {
 }
 
 .one {
-  background: pink;
-  border: 3px solid blue;
-  /* CHANGE ME */
-  padding: 0px;
-  margin: 0px;
+  background: peachpuff;
+  padding: 30px;
+  text-align: center;
+  margin: auto;
+  color: #EEEEEE;
 }
+
 
 .two {
   background: lightblue;
-  border: 3px solid purple;
-  /* CHANGE ME */
-  margin-bottom: 0px;
+  padding: 30px;
+  border: 2px dotted aqua;
+ margin: auto;
 }
 
 .three {
   background: peachpuff;
   border: 3px solid brown;
-  width: 200px;
-  /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  padding: 30px;
+  margin: auto;
 }
